@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ashis Udgata.
+- Pronouns He/Him.
 - 👀 I’m interested in R programming.
 - 🌱 I’m currently working on Geographical Weighted Regression.
 - 💞️ I’m looking to collaborate on this topic.
